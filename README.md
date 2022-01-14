@@ -2,8 +2,9 @@
 
 
 <div align="center">
-  
-   <img src="https://raw.githubusercontent.com/reshalfahsi/terraform_gcp/master/assets/badges.png" width = 450>
+    <a href="https://www.cloudskillsboost.google/public_profiles/b6ff4f06-e98a-4362-b579-a33dc8ecdb0f/badges/1640192">
+       <img src="https://raw.githubusercontent.com/reshalfahsi/terraform_gcp/master/assets/badges.png" width = 450>
+    </a>
 
 </div>
 
@@ -13,7 +14,7 @@ Update: 13 January 2022
 
 ## Task 1. Create the configuration files
 
-To start, run the following commands in Cloud Shell:
+To start, run the following commands in Cloud Shell Terminal:
 
 ```
 git clone https://github.com/reshalfahsi/terraform_gcp
