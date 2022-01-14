@@ -7,13 +7,13 @@ variable "zone" {
 }
 
 variable "project_id" {
- default = "qwiklabs-gcp-02-05ed4c120666"
+ default = "<PROJECT_ID>"
 }
 
 variable "vpc_name" {
- default = "tf-vpc-741707"
+ default = "<VPC_NAME>"
 }
 
 variable "bucket_name" {
- default = "tf-bucket-305171"
+ default = "<BUCKET_NAME>"
 }

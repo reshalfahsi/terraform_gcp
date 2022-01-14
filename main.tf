@@ -7,7 +7,6 @@ terraform {
   }
   # backend "gcs" {
   #   bucket  = "<BUCKET_NAME>"
-  #   bucket = var.bucket_name
   #   prefix  = "terraform/state"
   # }
 }
