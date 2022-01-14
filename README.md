@@ -72,7 +72,7 @@ terraform init
 
 ## Task 4. Modify and update infrastructure
 
-Open Cloud Shell Editor and edit [`modules/instance/instances.tf`](./modules/instance/instances.tf) by uncomment line 4 and 28. Next, comment line 3 and 27. In line 50 and 51 edit `<INSTANCE_NAME>` in accordance with your current credentials. Thus, uncomment line 50 to 65.
+Open Cloud Shell Editor and edit [`modules/instances/instances.tf`](./modules/instances/instances.tf) by uncomment line 4 and 28. Next, comment line 3 and 27. In line 50 and 51 edit `<INSTANCE_NAME>` in accordance with your current credentials. Thus, uncomment line 50 to 65.
 
 Run the following commands in Cloud Shell Terminal. Type yes at the prompt.
 
@@ -108,7 +108,7 @@ terraform init
 terraform apply
 ```
 
-Open Cloud Shell Editor and edit [`modules/instance/instances.tf`](./modules/instance/instances.tf) by uncomment line 15, 17, 39 and 41. Next, comment line 14, 16, 38 and 40. Then, run the following commands in Cloud Shell Terminal. Type yes at the prompt.
+Open Cloud Shell Editor and edit [`modules/instances/instances.tf`](./modules/instances/instances.tf) by uncomment line 15, 17, 39 and 41. Next, comment line 14, 16, 38 and 40. Then, run the following commands in Cloud Shell Terminal. Type yes at the prompt.
 
 ```
 terraform init
